@@ -1,8 +1,8 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/Metakine)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jitencodes?style=social)](https://twitter.com/intent/follow?screen_name=jitencodes)
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jitencodes/)
+  [![Twitter Follow](https://img.shields.io/badge/Twitter-0077B5?style=social&logo=Twitter&logoColor=blue)](https://twitter.com/intent/follow?screen_name=jitencodes/)
 
   <br />
   <br />
@@ -42,7 +42,3 @@ Windows:
 ```bash
 git clone https://github.com/jitencodes/Metakine.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/jitencodes)
