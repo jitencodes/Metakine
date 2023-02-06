@@ -1,10 +1,8 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/Metakine)
-  ![GitHub stars](https://img.shields.io/github/stars/jitencodes/Metakine?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/jitencodes/Metakine?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/jitencodes?style=social)](https://twitter.com/intent/follow?screen_name=jitencodes)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/cn4gx0z9EKE?style=social)](https://youtu.be/cn4gx0z9EKE)
+  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
   <br />
   <br />
