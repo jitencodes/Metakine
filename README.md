@@ -19,7 +19,7 @@ Metakine is a fully responsive nft website, <br />Responsive for all devices, bu
 
 ### Demo Screeshots
 
-![ Desktop Demo]("./demo.png")
+![ Desktop Demo](demo.png)
 
 ### Prerequisites
 
